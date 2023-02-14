@@ -1,5 +1,9 @@
 # Hi my name is Gaston Saravia and i am a Fullstack developer
 
+## Technologies
+
+JavaScript | React | Redux | HTML | CSS | Express | Node JS | SQL | Sequelize | SCRUM
+
 
 ## About me
 
@@ -16,6 +20,4 @@ My hobbies are video games, streaming, Formula 1, and paddle tennis.
 
 Contact with me: gastonsaravia112@gmail.com
 
-## technologies
 
-JavaScript | React | Redux | HTML | CSS | Express | Node JS | SQL | Sequelize | SCRUM
