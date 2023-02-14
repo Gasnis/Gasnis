@@ -20,4 +20,6 @@ My hobbies are video games, streaming, Formula 1, and paddle tennis.
 
 Contact with me: gastonsaravia112@gmail.com
 
-
+<p align="center">
+<img src="./giphy.gif" alt=""/>
+</p>
