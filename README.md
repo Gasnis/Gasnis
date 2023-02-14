@@ -23,3 +23,8 @@ Contact with me: gastonsaravia112@gmail.com
 <p align="center">
 <img src="./giphy.gif" alt=""/>
 </p>
+
+<p align="center">
+<img src="./michael.gif" alt=""/>
+<img src="./superfling.gif" alt=""/>
+</p>
